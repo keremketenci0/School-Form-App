@@ -1,0 +1,26 @@
+[
+  [{
+    "courseName": "1",
+    "courseDepartment": "Aşçılık",
+    "courseCode": "1",
+    "courseFaculty": "Denizcilik Meslek Yüksekokulu (DMYO)"
+  }],
+  [{
+    "courseName": "d",
+    "courseDepartment": "Deniz Ulaştırma İşletme Mühendisliği",
+    "courseCode": "2",
+    "courseFaculty": "Denizcilik Fakültesi"
+  }],
+  [{
+    "courseName": "d",
+    "courseDepartment": "Deniz Ulaştırma İşletme Mühendisliği",
+    "courseCode": "3",
+    "courseFaculty": "Denizcilik Fakültesi"
+  }],
+  [{
+    "courseName": "d",
+    "courseDepartment": "Deniz Ulaştırma İşletme Mühendisliği",
+    "courseCode": "4",
+    "courseFaculty": "Denizcilik Fakültesi"
+  }]
+]
