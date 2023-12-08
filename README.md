@@ -43,3 +43,10 @@ Bu uygulama, öğrenci ve ders yönetimini sağlayan basit bir Java uygulamasıd
 ## Bağımlılıklar
 
 - Bu projede Java ve Groovy dilleri kullanılmıştır. Ayrıca, JSON veri işleme için `json-20231013.jar` kütüphanesi kullanılmıştır.
+
+## Uygulama İçi Ekran Görüntüleri
+![MenuForm](https://github.com/keremketenci0/School-Form-App/assets/128905838/361390e3-4dfb-4edf-bc65-802c2e29f97a)
+
+![CourseForm](https://github.com/keremketenci0/School-Form-App/assets/128905838/ac1c67e7-5dac-43c5-a7cc-41477e09d494)
+
+![StudentForm](https://github.com/keremketenci0/School-Form-App/assets/128905838/10289080-fe25-43b6-a39d-cce492eb7554)
